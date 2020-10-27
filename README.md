@@ -1,5 +1,5 @@
-# beginning-algorithm-exercises
+# beginning-algorithm-exercises ( draft version )
 This repo is related to exercises from beginning algorithm book.
 
 ## Note
-Please switch branch to see various exercise.
+You can play around with executable algo.php for available impelmentation. 
